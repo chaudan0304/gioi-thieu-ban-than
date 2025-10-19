@@ -1,2 +1,2 @@
 # gioi-thieu-ban-than
-Giới thiệu bản thân
+Tôi là Nguyễn Văn Châu Đàn
